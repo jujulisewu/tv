@@ -1,11 +1,12 @@
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TRANS7
+#EXTM3U
+#EXTINF:-1 tvg-id="trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7d/Trans7_Logo.svg/1200px-Trans7_Logo.svg.png" group-title="Indonesia",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1375621084_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CNBC
+#EXTINF:-1 tvg-id="cnbc.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_Indonesia.svg/1200px-CNBC_Indonesia.svg.png" group-title="Indonesia",CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TRANSTV
+#EXTINF:-1 tvg-id="transtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b0/Trans_TV_2013.svg/1200px-Trans_TV_2013.svg.png" group-title="Indonesia",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2046269890_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TVRI
+#EXTINF:-1 tvg-id="tvri.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/TVRI_logo_2019.svg/1200px-TVRI_logo_2019.svg.png" group-title="Indonesia",TVRI
 https://flv.intechmedia.net/live/ch114.m3u8
